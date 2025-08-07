@@ -1,2 +1,2 @@
 # libini
-对QSettings进行拓展并支持线程安全
+对QSettings进行拓展,并支持写注释数据加密以及线程安全
